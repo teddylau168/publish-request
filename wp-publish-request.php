@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       WordPress Publish Request
  * Plugin URI:        https://github.com/teddylau168/wp-publish-request/
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       Publish Request is a WordPress Plugin which is designed for publishing the post with an approval process like Git Pull Request.
  * Version:           1.0.0
  * Author:            Teddy Lau
  * Author URI:        https://github.com/teddylau168
